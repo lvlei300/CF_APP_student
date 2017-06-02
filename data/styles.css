@@ -1,0 +1,223 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._形状 {
+}
+._图片 {
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+._流程形状 {
+}
+._表格 {
+}
+._单元格 {
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+.sticky_4 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+._水平线 {
+}
+._连接线 {
+}
+._形状1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.line {
+}
+.arrow {
+}
+.icon {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.box_2 {
+}
+.box_1 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.image {
+}
+.placeholder {
+}
+.button {
+}
+._图片1 {
+  color:#000000;
+}
+._文本段落1 {
+  text-align:left;
+}
+._一级标题1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._形状2 {
+}
+._图片2 {
+  color:#000000;
+}
+._水平线1 {
+}
+._垂直线 {
+}
+._流程形状1 {
+  font-size:13px;
+  color:#000000;
+}
+._形状3 {
+  font-size:13px;
+  color:#000000;
+}
+._单元格1 {
+  font-size:13px;
+  color:#000000;
+}
+._表格1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._图片3 {
+  font-size:13px;
+  color:#000000;
+}
+._多行文本框 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._图像 {
+  color:#000000;
+}
+.image1 {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.line1 {
+}
+.checkbox {
+  text-align:left;
+}
+._横线 {
+}
+._复选框 {
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
+.image2 {
+  color:#000000;
+}
+.link_button {
+  color:#169BD5;
+}
+.image3 {
+  color:#000000;
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.shape {
+}
